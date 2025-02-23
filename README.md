@@ -121,9 +121,38 @@ Before deploying AD, the infrastructure needs to be prepared in Azure. This incl
 
 ## Conclusion
 
-This project successfully demonstrates:
-- Active Directory deployment in Azure
-- Automated user management
-- Security policy implementation
-- Access control configuration
-- Security monitoring setup
+## Thank You for Viewing My Active Directory Project!
+
+Thank you for taking the time to explore my Active Directory infrastructure project. This implementation demonstrates the practical application of enterprise-level identity and access management in Azure, covering everything from initial setup to advanced security configurations.
+
+The project showcases:
+
+1. Initial Azure Infrastructure Setup:
+- Creating and configuring the domain controller VM
+- Setting up necessary networking components
+- Establishing the foundation for AD services
+
+2. Active Directory Implementation:
+- Installing and configuring AD Domain Services
+- Creating organizational structure (Admin and Employees OUs)
+- Client system integration into the domain
+- Remote desktop access configuration
+
+3. User Management Automation:
+- PowerShell scripting for bulk user creation
+- Account verification and testing
+- Security group management
+
+4. Security Implementation:
+- Account lockout policies
+- Login attempt restrictions
+- Comprehensive file share permissions
+- Group-based access control
+
+This hands-on project reflects real-world scenarios and best practices in Active Directory management. It serves as both a learning resource and a practical reference for similar implementations.
+
+### Connect With Me
+If you have questions about the implementation or would like to discuss Active Directory configurations, feel free to connect! I'm always interested in discussing IT infrastructure, security best practices, and cloud solutions.
+
+---
+Project completed by Richard Hood Jr.
