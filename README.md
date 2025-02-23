@@ -25,7 +25,7 @@ A comprehensive guide on setting up and managing Active Directory in an Azure en
 
 Before deploying AD, the infrastructure needs to be prepared in Azure. This includes:
 
-### Step 1: Creating a Virtual Machine (VM)
+### Step 1: Creating a Virtual Machines (One as a Domain Controller/Server & One for the Clients)
 <img src="https://github.com/user-attachments/assets/785e3d7d-0ac6-41a0-8676-63ea9d41d95f" width="600" height="500">
 
 ### Step 2: Setting up necessary networking components
