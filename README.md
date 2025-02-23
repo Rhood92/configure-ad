@@ -30,7 +30,8 @@ Before deploying AD, the infrastructure needs to be prepared in Azure. This incl
 - Configuring the VM as an Active Directory Domain Controller
 - Setting up necessary networking components
 
-![Preparing AD Infrastructure](./images/01-ad-infrastructure.png)
+![image](https://github.com/user-attachments/assets/785e3d7d-0ac6-41a0-8676-63ea9d41d95f)
+
 
 ## Deploying Active Directory
 
