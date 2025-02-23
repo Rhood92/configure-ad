@@ -18,7 +18,7 @@ A comprehensive guide on setting up and managing Active Directory in an Azure en
 3. [Creating Users with PowerShell](#creating-users-with-powershell)
 4. [Group Policy and Managing Accounts](#group-policy-and-managing-accounts)
 5. [Network File Shares and Permissions](#network-file-shares-and-permissions)
-6. [User Management in Active Directory](#user-management-in-active-directory)
+6. [User Management in Active Directory (Enabling/Disabling Accounts](#user-management-in-active-directory)
 7. [Conclusion](#conclusion)
 
 ## Preparing AD Infrastructure in Azure
