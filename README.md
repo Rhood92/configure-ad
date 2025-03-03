@@ -140,7 +140,6 @@ Before deploying Active Directory, the necessary infrastructure must be set up i
 ### **Step 5: Configuring Remote Desktop Access**
 - Enable Remote Desktop on the Domain Controller and client machines.
   - Configure Remote Desktop Gateway if needed.
-  - Set up appropriate firewall rules.
 
 <img src="https://github.com/user-attachments/assets/d72d8d26-400b-479d-b8de-a42408e4f5fb" width="600" height="500">
 <img src="https://github.com/user-attachments/assets/1c9a7fe3-2931-4fca-85e4-2004f9510dff" width="600" height="500">
